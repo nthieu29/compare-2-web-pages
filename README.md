@@ -6,3 +6,7 @@ Usage:
         
         java -jar compare2pages.jar FIRST_PAGE_URL SECOND_PAGEURL
         
+For example:
+        
+        java -jar compare2pages.jar https://production.example.com https://staging.example.com
+            
